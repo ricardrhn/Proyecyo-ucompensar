@@ -11,7 +11,7 @@ Réplica del sitio web institucional de la Fundación Universitaria Compensar de
 3. ¡Listo! El sitio funcionará completamente
 
 ### Opción 2: GitHub Pages
-1. Visitar: [tu-enlace-de-github-pages]
+1. Visitar: https://github.com/ricardrhn/Proyecyo-ucompensar/tree/e966601c566a6dcbb96895c8fea09c5a9f4b0172/pagina_compensar
 2. Navegar normalmente por el sitio
 
 ## 🛠 Tecnologías utilizadas
